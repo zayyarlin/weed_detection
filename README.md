@@ -1,6 +1,13 @@
 # Weed Detection
 Weed Detection in Soybean Crops by building a Neural Net from Scratch
 
+## Sample Images
+
+| Soybean       | Grass     | Soil      | Broadleaf     |
+| --------------|-----------|-----------|---------------|
+| <img src="sample_imgs/soybean.jpg" width="75" height="75" />  | <img src="sample_imgs/grass.jpg" width="75" height="75" />   |<img src="sample_imgs/soil.jpg" width="75" height="75" />      |<img src="sample_imgs/broadleaf.jpg" width="75" height="75" />      |
+
+
 ## Project Description
 
 In this project, we will build a convolutional neural network from scratch, using only numpy for matrix operations and numba for high performance Python, to classify the weed dataset. We will then compare against the state of the art result described below.
