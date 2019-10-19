@@ -1,5 +1,5 @@
 # Weed Detection
-Weed Detection in Soybean Crops by building a Neural Net from Scratch
+Weed Detection in Soybean Crops with Neural Network
 
 ## Sample Images
 
@@ -10,7 +10,7 @@ Weed Detection in Soybean Crops by building a Neural Net from Scratch
 
 ## Project Description
 
-In this project, we will build a convolutional neural network from scratch, using only numpy for matrix operations and numba for high performance Python, to classify the weed dataset. We will then compare against the state of the art result described below.
+In this project, we build a simple convolutional neural network that achieves > 90% accuracy.
 
 ## Prior work
 
